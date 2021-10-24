@@ -1,0 +1,14 @@
+C:\msproject\TestAppv1\TestAppv1\bin\Debug\netcoreapp3.1\TestAppv1.exe
+C:\msproject\TestAppv1\TestAppv1\bin\Debug\netcoreapp3.1\TestAppv1.deps.json
+C:\msproject\TestAppv1\TestAppv1\bin\Debug\netcoreapp3.1\TestAppv1.runtimeconfig.json
+C:\msproject\TestAppv1\TestAppv1\bin\Debug\netcoreapp3.1\TestAppv1.runtimeconfig.dev.json
+C:\msproject\TestAppv1\TestAppv1\bin\Debug\netcoreapp3.1\TestAppv1.dll
+C:\msproject\TestAppv1\TestAppv1\bin\Debug\netcoreapp3.1\TestAppv1.pdb
+C:\msproject\TestAppv1\TestAppv1\obj\Debug\netcoreapp3.1\TestAppv1.csproj.AssemblyReference.cache
+C:\msproject\TestAppv1\TestAppv1\obj\Debug\netcoreapp3.1\TestAppv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\msproject\TestAppv1\TestAppv1\obj\Debug\netcoreapp3.1\TestAppv1.AssemblyInfoInputs.cache
+C:\msproject\TestAppv1\TestAppv1\obj\Debug\netcoreapp3.1\TestAppv1.AssemblyInfo.cs
+C:\msproject\TestAppv1\TestAppv1\obj\Debug\netcoreapp3.1\TestAppv1.csproj.CoreCompileInputs.cache
+C:\msproject\TestAppv1\TestAppv1\obj\Debug\netcoreapp3.1\TestAppv1.dll
+C:\msproject\TestAppv1\TestAppv1\obj\Debug\netcoreapp3.1\TestAppv1.pdb
+C:\msproject\TestAppv1\TestAppv1\obj\Debug\netcoreapp3.1\TestAppv1.genruntimeconfig.cache
